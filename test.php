@@ -6,6 +6,8 @@ $SMTP_MODE = true;
 
 require_once('conf.php');
 
+if( !isset($smpt) ) $SMTP_MODE = $smpt;
+
 if( !isset($FromAddr) ) $FromAddr = 'from@example.com';
 if( !isset($FromName) ) $FromName = '日本語送信者';
 if( !isset($TO)       ) $TO       = 'address@example.com';
