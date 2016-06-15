@@ -1,11 +1,10 @@
 To: nexia okabe <test002@nxa.ne.jp>
-Subject: this mail sendmail
+Subject: this mail sendmail ben.nexia.lo.jp
 From: gamail okabe <sei.okabe@gmail.com>
 Content-Type: text/plain; charset="iso-2022-jp"
 Content-Transfer-Encoding: 7bit
 MIME-Version: 1.0
 
-This mail is test for sendmail.
+This mail is test for sendmail. ben.nexia.lo.jp
 
 check Return-Path, To addr.
-
